@@ -21,7 +21,7 @@ pip install ptol
 
 ## Usage
 
-Please look at the [ptol usage tutorial](https://github.com/bxlab/metaWRAP/blob/master/Usage_tutorial.md) for detailed run instructions and examples.
+Please look at the [ptol usage tutorial](https://github.com/cauBioinformation/ptol/blob/main/implementation.md) for detailed run instructions and examples.
 
 Once all the dependencies are in place, running ptol is relatively simple. The main ptol script wraps around all of its individual modules, which you can call independently.
 
@@ -44,9 +44,9 @@ ptol query_syntax -h
 Usage: ptol query_syntax [options] -m run -i keywords.txt -o my_result.txt
 Options:
 		
-		-m | Mode: init for intialization, run for normal opetation
-		-i | Input file path containing keywords
-		-o | Output file path for query statements
+	-m | Mode: init for intialization, run for normal opetation
+	-i | Input file path containing keywords
+	-o | Output file path for query statements
 ```
 
 I sincerely hope that this pipeline can accelerate your research process and wish the best of luck in research.
