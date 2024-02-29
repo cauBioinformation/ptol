@@ -1,0 +1,343 @@
+Title	DOI
+Recent advances in biosynthesis of mycotoxin-degrading enzymes and their applications in food and feed	10.1080/10408398.2023.2294166
+Small Peptides in the Detection of Mycotoxins and Their Potential Applications in Mycotoxin Removal	10.3390/toxins14110795
+Characterization and application of the enzyme peroxidase to the degradation of the mycotoxin DON	10.1080/03601234.2017.1356672
+Structural and functional characterization of ochratoxinase, a novel mycotoxin-degrading enzyme	10.1042/BJ20140382
+Effect of the combined compound probiotics with mycotoxin-degradation enzyme on detoxifying aflatoxin B(1) and zearalenone	10.2131/jts.43.377
+Mechanism of action, sources, and application of peroxidases	10.1016/j.foodres.2021.110266
+Research progress of ochratoxin a bio-detoxification	10.1016/j.toxicon.2022.107005
+Improvement of the enzymatic detoxification activity towards mycotoxins through structure-based engineering	10.1016/j.biotechadv.2022.107927
+Ochratoxin A degrading enzymes of Stenotrophomonassp. 043-1a	10.1093/femsle/fnad028
+Biological Detoxification of Mycotoxins: Current Status and Future Advances	10.3390/ijms23031064
+Enzyme Degradation Reagents Effectively Remove Mycotoxins Deoxynivalenol and Zearalenone from Pig and Poultry Artificial Digestive Juices	10.3390/toxins11100599
+Zearalenone reduction by commercial peroxidase enzyme and peroxidases from soybean bran and rice bran	10.1080/19440049.2018.1486044
+Degrading Ochratoxin A and Zearalenone Mycotoxins Using a Multifunctional Recombinant Enzyme	10.3390/toxins11050301
+Identification of a Potent Enzyme for the Detoxification of Zearalenone	10.1021/acs.jafc.9b06223
+Ubiquitination of acetyltransferase Gcn5 contributes to fungal virulence in Fusarium graminearum	10.1128/mbio.01499-23
+Antioxidant agents against trichothecenes: new hints for oxidative stress treatment	10.18632/oncotarget.22800
+Mechanisms by which microbial enzymes degrade four mycotoxins and application in animal production: A review	10.1016/j.aninu.2023.09.003
+A Superefficient Ochratoxin A Hydrolase with Promising Potential for Industrial Applications	10.1128/AEM.01964-21
+The DUG Pathway Governs Degradation of Intracellular Glutathione in Aspergillus nidulans	10.1128/AEM.01321-20
+[Progress in bio-degradation of mycotoxin zearalenone]	10.13345/j.cjb.170337
+Mutation, food-grade expression, and characterization of a lactonase for zearalenone degradation	10.1007/s00253-023-12638-6
+Enzymatic degradation of ochratoxin A in the gastrointestinal tract of piglets	10.1093/jas/skad171
+Expression, functional analysis and mutation of a novel neutral zearalenone-degrading enzyme	10.1016/j.ijbiomac.2018.06.111
+Co-Immobilization of Enzymes and Metals on the Covalent-Organic Framework for the Efficient Removal of Mycotoxins	10.1021/acsami.2c20302
+Potential of Trichoderma spp. for Biocontrol of Aflatoxin-Producing Aspergillus flavus	10.3390/toxins14020086
+Effects of compound probiotics and aflatoxin-degradation enzyme on alleviating aflatoxin-induced cytotoxicity in chicken embryo primary intestinal epithelium, liver and kidney cells	10.1186/s13568-021-01196-7
+A comparative genomics study of 23 Aspergillus species from section Flavi	10.1038/s41467-019-14051-y
+Improvement of catalytic activity of sorbose dehydrogenase for deoxynivalenol degradation by rational design	10.1016/j.foodchem.2023.136274
+The main Aflatoxin B1 degrading enzyme in Pseudomonas putida is thermostable lipase	10.1016/j.heliyon.2022.e10809
+Detoxification of the Mycotoxin Citrinin by a Manganese Peroxidase from Moniliophthora&nbsp;roreri	10.3390/toxins14110801
+Isolation and purification of an enzyme hydrolyzing ochratoxin A from Aspergillus niger	10.1007/s10529-007-9479-2
+Aromatization of natural products by a specialized detoxification enzyme	10.1038/s41589-019-0446-8
+A novel enzyme synthesized by Acinetobacter sp. SM04 is responsible for zearalenone biodegradation	10.1093/bbb/zbab204
+Compound mycotoxin detoxifier alleviating aflatoxin B(1) toxic effects on broiler growth performance, organ damage and gut microbiota	10.1016/j.psj.2022.102434
+Bacterial Quorum-Quenching Lactonase Hydrolyzes Fungal Mycotoxin and Reduces Pathogenicity of Penicillium expansum-Suggesting a Mechanism of Bacterial Antagonism	10.3390/jof7100826
+Detoxification of mycotoxin patulin by the yeast Rhodosporidium paludigenum	10.1016/j.foodchem.2015.01.066
+Biochemical Characterization and Mutational Analysis of a Lactone Hydrolase from Phialophora americana	10.1021/acs.jafc.9b05853
+Cloning and Characterization of Three Novel Enzymes Responsible for the Detoxification of Zearalenone	10.3390/toxins14020082
+Mitigation of aflatoxin B(1) in fish feed by peroxidase from soybean meal	10.1080/19440049.2022.2134932
+Metabolism of Zearalenone in the Rumen of Dairy Cows with and without Application of a Zearalenone-Degrading Enzyme	10.3390/toxins13020084
+Degradation of ochratoxins A and B by lipases: A kinetic study unraveled by molecular modeling	10.1016/j.heliyon.2023.e19921
+Identification of an Acinetobacter pittii acyltransferase involved in transformation of deoxynivalenol to 3-acetyl-deoxynivalenol by transcriptomic analysis	10.1016/j.ecoenv.2023.115395
+Heterologous Expression and Characterization of A Novel Ochratoxin A Degrading Enzyme, N-acyl-L-amino Acid Amidohydrolase, from Alcaligenes faecalis	10.3390/toxins11090518
+Isolation and Characterization of the Zearalenone-Degrading Strain, Bacillus spizizenii B73, Inspired by Esterase Activity	10.3390/toxins15080488
+Ochratoxin A reduction by peroxidase in a model system and grape juice	10.1007/s42770-019-00112-3
+Microbial Reduction of Fumonisin B1 by the New Isolate Serratia marcescens 329-2	10.3390/toxins13090638
+Zearalenone Removal from Corn Oil by an Enzymatic Strategy	10.3390/toxins12020117
+New Hydrolase from Aeromicrobium sp. HA for the Biodegradation of Zearalenone: Identification, Mechanism, and Application	10.1021/acs.jafc.2c06410
+Transcriptomic profiling to identify genes involved in Fusarium mycotoxin Deoxynivalenol and Zearalenone tolerance in the mycoparasitic fungus Clonostachys rosea	10.1186/1471-2164-15-55
+Characterization and crystal structure of a novel zearalenone hydrolase from Cladophialophora bantiana	10.1107/S2053230X17011840
+Whole-Genome Sequencing and Bioinformatics Analysis of Apiotrichum mycotoxinivorans: Predicting Putative Zearalenone-Degradation Enzymes	10.3389/fmicb.2020.01866
+Peroxidase as a simultaneous degradation agent of ochratoxin A and zearalenone applied to model solution and beer	10.1016/j.foodres.2020.109039
+Zearalenone disturbs the reproductive-immune axis in pigs: the role of gut microbial metabolites	10.1186/s40168-022-01397-7
+Patulin Detoxification by Recombinant Manganese Peroxidase from Moniliophthora roreri Expressed by Pichia pastoris	10.3390/toxins14070440
+Highly efficient removal of patulin using immobilized enzymes of Pseudomonas aeruginosa TF-06 entrapped in calcium alginate beads	10.1016/j.foodchem.2021.131973
+Screening of commercial hydrolases for the degradation of ochratoxin A	10.1021/jf000413j
+Purification and characteristics of an aflatoxin B1 degradation enzyme isolated from Pseudomonas aeruginosa	10.1093/femsle/fnz034
+Four PQQ-Dependent Alcohol Dehydrogenases Responsible for the Oxidative Detoxification of Deoxynivalenol in a Novel Bacterium Ketogulonicigenium vulgare D3_3 Originated from the Feces of Tenebrio molitor Larvae	10.3390/toxins15060367
+Effect of heme oxygenase-1 on ochratoxin A-induced nephrotoxicity in mice	10.1016/j.biocel.2017.01.003
+Effects of Compound Mycotoxin Detoxifier on Alleviating Aflatoxin B(1)-Induced Inflammatory Responses in Intestine, Liver and Kidney of Broilers	10.3390/toxins14100665
+Enhancement of solubility in Escherichia coli and purification of an aminotransferase from Sphingopyxis sp. MTA144 for deamination of hydrolyzed fumonisin B(1)	10.1186/1475-2859-9-62
+Enzymatic Degradation of Zearalenone in the Gastrointestinal Tract of Pigs, Chickens, and Rainbow Trout	10.3390/toxins15010048
+Molecular crosstalk between the endophyte Paraconiothyrium variabile and the phytopathogen Fusarium oxysporum - Modulation of lipoxygenase activity and beauvericin production during the interaction	10.1016/j.fgb.2020.103383
+[Computation-aided design of the flexible region of zearalenone hydrolase improves its thermal stability]	10.13345/j.cjb.210067
+Chromosome-Scale Genome Assembly of Talaromyces rugulosus W13939, a Mycoparasitic Fungus and Promising Biocontrol Agent	10.1094/MPMI-06-20-0163-A
+Identification and application of a novel deoxynivalenol-degrading enzyme from Youhaiella tibetensis	10.1016/j.foodchem.2023.137609
+Degradation of aflatoxin B(1) by fungal laccase enzymes	10.1016/j.ijfoodmicro.2009.07.022
+Detoxification of aflatoxin B(1) in broiler chickens by a triple-action feed additive	10.1080/19440049.2021.1957159
+Whole-genome sequencing and phylogenomic analyses of a novel zearalenone-degrading Bacillus subtilis B72	10.1007/s13205-023-03517-y
+Degradation of Four Major Mycotoxins by Eight Manganese Peroxidases in Presence of a Dicarboxylic Acid	10.3390/toxins11100566
+Complete Genome Sequence of Zearalenone Degrading Bacteria Bacillus velezensis A2	10.1007/s00284-020-02234-6
+Isoenzyme N-Acyl-l-Amino Acid Amidohydrolase NA Increases Ochratoxin A Degradation Efficacy of Stenotrophomonas sp. CW117 by Enhancing Amidohydrolase ADH3 Stability	10.1128/spectrum.02205-22
+Identification of a Bacillus amyloliquefaciens H6 Thioesterase Involved in Zearalenone Detoxification by Transcriptomic Analysis	10.1021/acs.jafc.0c03954
+The structure of a complex of the lactonohydrolase zearalenone hydrolase with the hydrolysis product of zearalenone at 1.60 Å resolution	10.1107/S2053230X17007713
+Microbial Degradation of Amino Acid-Containing Compounds Using the Microcystin-Degrading Bacterial Strain B-9	10.3390/md16020050
+Enhancing the thermostability of carboxypeptidase A by a multiple computer-aided rational design based on amino acids preferences at β-turns	10.1016/j.ijbiomac.2023.125447
+Degradation of mycotoxins in mixtures by combined proteinous nanobiocatalysts: In silico, in vitro and in vivo	10.1016/j.ijbiomac.2022.07.179
+Progression of mycotoxin and nutrient concentrations in wheat after inoculation with Fusarium culmorum	10.1080/00039420310001656668
+Deoxynivalenol- and zearalenone-contaminated feeds alter gene expression profiles in the livers of piglets	10.5713/ajas.17.0466
+Effects of gamma irradiation on mycotoxin disappearance and amino acid contents of corn, wheat, and soybeans with different moisture contents	10.1007/BF01088331
+Efficient Degradation of Aflatoxin B(1) and Zearalenone by Laccase-like Multicopper Oxidase from Streptomyces thermocarboxydus in the Presence of Mediators	10.3390/toxins13110754
+Degradation of Aflatoxins by Means of Laccases from Trametes versicolor: An In Silico Insight	10.3390/toxins9010017
+Ribonucleoside Diphosphate Reductase Plays an Important Role in Patulin Degradation by Enterobacter cloacae subsp. dissolvens	10.1021/acs.jafc.0c01613
+Assessment of active bacteria metabolizing phenolic acids in the peanut (Arachis hypogaea L.) rhizosphere	10.1016/j.micres.2017.09.005
+An aminotransferase from bacterium ATCC 55552 deaminates hydrolyzed fumonisin B₁	10.1007/s10532-010-9371-y
+Metabolism of zearalenone by genetically modified organisms expressing the detoxification gene from Clonostachys rosea	10.1128/AEM.70.6.3239-3245.2004
+Induction of a zearalenone degrading enzyme caused by the substrate and its derivatives	10.1007/BF03036706
+Degradation of aflatoxin B(1) by a recombinant laccase from Trametes sp. C30 expressed in Saccharomyces cerevisiae: A mechanism assessment study in vitro and in vivo	10.1016/j.foodres.2021.110418
+A new zearalenone biodegradation strategy using non-pathogenic Rhodococcus pyridinivorans K408 strain	10.1371/journal.pone.0043608
+Biochemical Characterization of the Fusarium graminearum Candidate ACC-Deaminases and Virulence Testing of Knockout Mutant Strains	10.3389/fpls.2019.01072
+Expression of the Clonostachys rosea lactonohydrolase gene by Lactobacillus reuteri to increase its zearalenone-removing ability	10.1186/s12934-017-0687-8
+A novel lactonohydrolase responsible for the detoxification of zearalenone: enzyme purification and gene cloning	10.1042/BJ20020450
+Presence of aiiA homologue genes encoding for N-Acyl homoserine lactone-degrading enzyme in aflatoxin B(1)-decontaminating Bacillus strains with potential use as feed additives	10.1016/j.fct.2018.12.016
+Hydrolyzed fumonisin B(1) induces less inflammatory responses than fumonisin B(1) in the co-culture model of porcine intestinal epithelial and immune cells	10.1016/j.toxlet.2019.01.013
+Aflatoxin B(1)-degrading activity from Bacillus subtilis BCC 42005 isolated from fermented cereal products	10.1080/19440049.2020.1778182
+Biodegradation of patulin in fresh pear juice by an aldo-keto reductase from Meyerozyma guilliermondii	10.1016/j.foodchem.2023.137696
+DypB peroxidase for aflatoxin removal: New insights into the toxin degradation process	10.1016/j.chemosphere.2023.140826
+The Protective Role of Bacillus velezensis A2 on the Biochemical and Hepatic Toxicity of Zearalenone in Mice	10.3390/toxins10110449
+Degradation of ochratoxin A by Bacillus amyloliquefaciens ASAG1	10.1080/19440049.2014.991948
+Reduced contamination by the Fusarium mycotoxin zearalenone in maize kernels through genetic modification with a detoxification gene	10.1128/AEM.01077-06
+Biodegradation Mechanisms of Patulin in Candida guilliermondii: An iTRAQ-Based Proteomic Analysis	10.3390/toxins9020048
+Structure-Guided Steric Hindrance Engineering of Devosia Strain A6-243 Quinone-Dependent Dehydrogenase to Enhance Its Catalytic Efficiency	10.1021/acs.jafc.3c07179
+Optimization of process parameters for the production of an OTA-hydrolyzing enzyme from Aspergillus niger under solid-state fermentation	10.1016/j.jbiosc.2011.06.016
+Effect of the yeast Rhodosporidium paludigenum on postharvest decay and patulin accumulation in apples and pears	10.4315/0362-028X.JFP-14-218
+High-level expression of a ZEN-detoxifying gene by codon optimization and biobrick in Pichia pastoris	10.1016/j.micres.2016.09.004
+Oxylipins act as determinants of natural product biosynthesis and seed colonization in Aspergillus nidulans	10.1111/j.1365-2958.2005.05000.x
+Zearalenone detoxification by zearalenone hydrolase is important for the antagonistic ability of Clonostachys rosea against mycotoxigenic Fusarium graminearum	10.1016/j.funbio.2014.01.005
+Purification and characterization of a zearalenone degrading enzyme produced byGliocladium roseum	10.1007/BF02946066
+Effect of Compound Probiotics and Mycotoxin Degradation Enzymes on Alleviating Cytotoxicity of Swine Jejunal Epithelial Cells Induced by Aflatoxin B1 and Zearalenone	10.3390/toxins11010012
+Mycotoxin Biotransformation by Native and Commercial Enzymes: Present and Future Perspectives	10.3390/toxins9040111
+Recent developments of mycotoxin-degrading enzymes: identification, preparation and application	10.1080/10408398.2023.2220402
+Degradation of the minor Fusarium mycotoxin beauvericin by intracellular enzymes of Saccharomyces cerevisiae	10.1016/j.foodcont.2013.03.035
+Deoxynivalenol (DON) degradation and peroxidase enzyme activity in submerged fermentation	10.1590/S0101-20612011000100030
+Addressing the mycotoxin deoxynivalenol contamination with soil-derived bacterial and enzymatic transformations targeting the C3 carbon	10.3920/WMJ2017.2259
+Impact of food processing and detoxification treatments on mycotoxin contamination	10.1007/s12550-016-0257-7
+Enzymatic degradation of mycotoxin patulin by an extracellular lipase from Ralstonia and its application in apple juice	10.1016/j.foodcont.2022.108870
+Biodegradation of mycotoxin patulin by the yeast Meyerozyma guilliermondii	10.1016/j.biocontrol.2021.104692
+Application of laccases for mycotoxin decontamination	10.3920/WMJ2020.2585
+Current Review of Mycotoxin Biodegradation and Bioadsorption: Microorganisms, Mechanisms, and Main Important Applications	10.3390/toxins14110729
+Enzymes for Degradation of Fusarium Mycotoxins	10.1007/978-981-32-9038-9_7
+Confrontation of Microbes with Mycotoxin-Producing Strains	10.1007/978-981-32-9038-9_8
+Technological and community-based methods to reduce mycotoxin exposure	10.1016/j.foodcont.2016.05.029
+Toxicity of different Fusarium mycotoxins on growth performance, immune responses and efficacy of a mycotoxin degrading enzyme in pigs	10.1051/animres:2006032
+Substances for reduction of the contamination of feed by mycotoxins: a review	10.3920/WMJ2011.1288
+An In Silico Target Fishing Approach to Identify Novel Ochratoxin A Hydrolyzing Enzyme	10.3390/toxins12040258
+Not a Mistake but a Feature: Promiscuous Activity of Enzymes Meeting Mycotoxins	10.3390/catal12101095
+Genome mining of Burkholderia ambifaria strain T16, a rhizobacterium able to produce antimicrobial compounds and degrade the mycotoxin fusaric acid	10.1007/s11274-022-03299-0
+In vitro single and combined mycotoxins degradation by Ery4 laccase from Pleurotus eryngii and redox mediators	10.1016/j.foodcont.2018.02.032
+Microbial Enzymes Involved in the Biotransformation of Major Mycotoxins	10.1021/acs.jafc.2c06195
+Enzymes for Detoxification of Various Mycotoxins: Origins and Mechanisms of Catalytic Action	10.3390/molecules24132362
+Cryptococcus podzolicus Y3 degrades ochratoxin A by intracellular enzymes and simultaneously eliminates citrinin	10.1016/j.biocontrol.2022.104857
+Strategies and Methodologies for Developing Microbial Detoxification Systems to Mitigate Mycotoxins	10.3390/toxins9040130
+Genetic dissection of the degradation pathways for the mycotoxin fusaric acid in Burkholderia ambifaria T16	10.1128/aem.00630-23
+Decontamination of Fumonisin B1 in maize grain by Pleurotus eryngii and antioxidant enzymes	10.14601/Phytopathol_Mediterr-20358
+Evaluation of reduced toxicity of zearalenone as measured by the Hep G2 cell assay on degradation enzymes	10.1016/j.foodcont.2015.03.031
+Enzyme characteristics of aminotransferase FumI of Sphingopyxis sp MTA144 for deamination of hydrolyzed fumonisin B1	10.1007/s00253-011-3248-9
+Isolation and Mechanistic Characterization of a Novel Zearalenone-Degrading Enzyme	10.3390/foods11182908
+Systematic Structure-Based Search for Ochratoxin-Degrading Enzymes in Proteomes from Filamentous Fungi	10.3390/biom11071040
+The Mycotoxin Zearalenone Hinders Candida albicans Biofilm Formation and Hyphal Morphogenesis	10.1007/s12088-017-0690-0
+Detoxification of patulin in apple juice by enzymes and evaluation of its degradation products	10.1016/j.foodcont.2022.109518
+Innovative technologies for the mitigation of mycotoxins in animal feed and ingredients-A review of recent patents	10.1016/j.anifeedsci.2016.03.030
+The impact of management practices to prevent and control mycotoxins in the European food supply chain: MyToolBox project results	10.3920/WMJ2020.2588
+Nitrogen deprivation in Fusarium oxysporum promotes mycotoxin production via intermediates in the Krebs cycle and unreported methylmalonyl-CoA mutase activity	10.1007/s11306-018-1459-0
+Biodegradation of Fumonisins by the Consecutive Action of a Fusion Enzyme	10.3390/toxins14040266
+Antifungal, plant growth-promoting, and mycotoxin detoxication activities of Burkholderia sp. strain XHY-12	10.1007/s13205-020-2112-y
+Simultaneous degradation of aflatoxin B1 and zearalenone by Porin and Peroxiredoxin enzymes cloned from Acinetobacter nosocomialis Y1	10.1016/j.jhazmat.2023.132105
+Degradation of fumonisin B1 by the consecutive action of two bacterial enzymes	10.1016/j.jbiotec.2009.11.004
+Microbial Detoxification of Mycotoxins	10.1007/s10886-013-0321-0
+Patulin: incidence and control in apple products	10.5433/1679-0359.2009v30n1p135
+New insights into searching patulin degrading enzymes in Saccharomyces cerevisiae through proteomic and molecular docking analysis	10.1016/j.jhazmat.2023.132806
+Mycotoxins - prevention and decontamination by yeasts	10.1002/jobm.201400833
+Aflatoxin Detoxification Using Microorganisms and Enzymes	10.3390/toxins13010046
+Effect of enzyme pretreatments on the determination of deoxynivalenol in barley	10.1094/ASBCJ-2008-0226-01
+Au@Fe3O4 nanocomposites as conductive bridges coupled with a bi-enzyme-aided system to mediate gap-electrical signal transduction for homogeneous aptasensor mycotoxins detection	10.1016/j.snb.2020.128553
+Trichoderma Enzymes for Degradation of Aflatoxin B1 and Ochratoxin A	10.3390/molecules27123959
+The salicylate 1,2-dioxygenase from Pseudaminobacter salicylatoxidans DSM 6986T is a bifunctional enzyme that inactivates the mycotoxin ochratoxin A by a novel amidohydrolase activity	10.1016/j.ijbiomac.2023.124230
+Fusarium graminearum forms mycotoxin producing infection structures on wheat	10.1186/1471-2229-11-110
+Evaluation of the effects of dietary mycotoxin-degrading adsorbent on juvenile turbot (Scophthalmus maximus L.) fed aflatoxin B1-contaminated diets	10.1016/j.aqrep.2023.101539
+Degradation of ochratoxin A by proteases and by a crude enzyme of Aspergillus niger	10.1080/08905430600904369
+Isolation and identification of an extracellular enzyme from Aspergillus niger with Deoxynivalenol biotransformation capability	10.9755/ejfa.2017.v29.i10.1295
+Oxidation of zearalenone by extracellular enzymes from Acinetobacter sp SM04 into smaller estrogenic products	10.1007/s11274-011-0741-3
+Transcriptomic analysis reveals the metabolic mechanism of patulin by Saccharomyces cerevisiae during fermentation	10.1016/j.lwt.2021.111808
+A novel enzyme from Rhodotorula mucilaginosa Aldolase: Isolation, identification and degradation for patulin in apple juice	10.1016/j.procbio.2022.03.001
+Biotransformation of the Mycotoxin Zearalenone to its Metabolites Hydrolyzed Zearalenone (HZEN) and Decarboxylated Hydrolyzed Zearalenone (DHZEN) Diminishes its Estrogenicity In Vitro and In Vivo	10.3390/toxins11080481
+The Possible Mechanisms Involved in Degradation of Patulin by Pichia caribbica	10.3390/toxins8100289
+Recent advances in detoxification strategies for zearalenone contamination in food and feed	10.1016/j.cjche.2020.11.011
+Enzymatic activity and some molecular properties of Trichosporon mycotoxinivorans yeast and their effects on liver function in mice	10.5897/AJMR12.141
+Biodegradation characteristics of patulin by Saccharomyces cerevisiae during fermentation	10.1016/j.foodcont.2022.109463
+Degradation and detoxification of aflatoxin B1 using nitrogen gas plasma generated by a static induction thyristor as a pulsed power supply	10.1016/j.foodcont.2016.09.014
+Microfluidic Assembly Synthesis of Magnetic TiO2@SiO2 Hybrid Photonic Crystal Microspheres for Photocatalytic Degradation of Deoxynivalenol	10.1007/s10904-020-01806-0
+Biodegradation of mycotoxin fumonisin B1 by a novel bacterial consortium SAAS79	10.1007/s00253-019-09979-6
+In vitro study of the growth, development and pathogenicity responses of Fusarium oxysporum to phthalic acid, an autotoxin from Lanzhou lily	10.1007/s11274-015-1872-8
+Whole Genome Sequence of Alternaria alternata, the Causal Agent of Black Spot of Kiwifruit	10.3389/fmicb.2021.713462
+Application of biomarker methods to investigate FUMzyme mediated gastrointestinal hydrolysis of fumonisins in pigs	10.3920/WMJ2017.2265
+The Identification of DepB: An Enzyme Responsible for the Final Detoxification Step in the Deoxynivalenol Epimerization Pathway in Devosia mutans 17-2-E-8	10.3389/fmicb.2018.01573
+Mycotoxins and Their Biotransformation in the Rumen: A Review	10.5713/ajas.2010.r.06
+Spermidine synthase is essential for vegetative growth, stress response, secondary metabolism and pathogenicity in Alternaria alternata	10.1016/j.postharvbio.2023.112612
+Barley Nepenthesin-Like Aspartic Protease HvNEP-1 Degrades Fusarium Phytase, Impairs Toxin Production, and Suppresses the Fungal Growth	10.3389/fpls.2021.702557
+Characterization, expression and application of a zearalenone degrading enzyme from Neurospora crassa	10.1186/s13568-018-0723-z
+Transgene pyramiding in wheat: Combination of deoxynivalenol detoxification with inhibition of cell wall degrading enzymes to contrast Fusarium Head Blight and Crown Rot	10.1016/j.plantsci.2021.111059
+DETOXIFICATION SPECTRUM OF THE CIGARETTE BEETLE SYMBIONT SYMBIOTAPHRINA-KOCHII IN CULTURE	10.1111/j.1570-7458.1991.tb01522.x
+Degradation of ochratoxin A by supernatant and ochratoxinase of Aspergillus niger W-35 isolated from cereals	10.3920/WMJ2019.2446
+Effect of the antagonistic yeast Hannaella sinensis on the degradation of Patulin	10.1016/j.biocontrol.2022.105134
+In-vitro assessment of a novel plant rhizobacterium, Citrobacter freundii, for degrading and biocontrol of food mycotoxin deoxynivalenol	10.1016/j.toxicon.2023.107095
+Mycotoxins and female reproduction: in vitro approaches	10.3920/WMJ2013.1596
+Natural occurrence of citrinin in rice grains and its biocontrol by Trichoderma hamatum	10.1007/BF02980928
+Fungus Monascus-Fermented Red Yeast Rice (RYR): Natural Therapeutic Statin Source or Mycotoxin?	10.1007/978-981-13-0393-7_38
+The mechanisms involved in ochratoxin A elimination by Yarrowia lipolytica Y-2	10.1111/aab.12452
+A novel detoxifying agent: Using rice husk carriers to immobilize zearalenone-degrading enzyme from Aspergillus niger FS10	10.1016/j.foodcont.2016.03.042
+Detoxification of the mycoestrogen zearalenone by Bacillus licheniformis spore CotA laccase and application of immobilized laccase in contaminated corn meal	10.1016/j.lwt.2022.113548
+Possibilities for the Biological Control of Mycotoxins in Food and Feed	10.3390/toxins13030198
+Detoxification of aflatoxin B1 by Stenotrophomonas sp. CW117 and characterization the thermophilic degradation process	10.1016/j.envpol.2020.114178
+CotA laccase from Bacillus licheniformis ZOM-1 effectively degrades zearalenone, aflatoxin B1 and alternariol	10.1016/j.foodcont.2022.109472
+Efficient Degradation of Zearalenone by Dye-Decolorizing Peroxidase from Streptomyces thermocarboxydus Combining Catalytic Properties of Manganese Peroxidase and Laccase	10.3390/toxins13090602
+Influence of processing steps on the fate of ochratoxin A, patulin, and alternariol during production of cloudy and clear apple juices	10.1007/s12550-021-00443-x
+Characterisation and determination of metabolites formed by microbial and enzymatic degradation of ergot alkaloids	10.3920/WMJ2014.1807
+Characterization of a short-chain dehydrogenase/reductase and its function in patulin biodegradation in apple juice	10.1016/j.foodchem.2021.129046
+Immobilized short-chain dehydrogenase/reductase on Fe3O4 particles acts as a magnetically recoverable biocatalyst component in patulin bio-detoxification system	10.1016/j.jhazmat.2023.130986
+Simultaneous degradation of aflatoxin B1 and zearalenone by a microbial consortium	10.1016/j.toxicon.2018.04.007
+Molecular and biochemical characterisation of antagonistic mechanisms of the biocontrol agent Bacillus cereus B25 inhibiting the growth of the phytopathogen Fusarium verticillioides P03 during their direct interaction in vitro	10.1080/09583157.2022.2085662
+Fumonisin elimination and prospects for detoxification by enzymatic transformation	10.3920/WMJ2011.1285
+Biodegradation of aflatoxin-B1 and zearalenone by Streptomyces sp collection	10.1016/j.ibiod.2015.12.007
+Enzymatic degradation of xyloglucans by Aspergillus species: a comparative view of this genus	10.1007/s00253-021-11236-8
+The characteristics of patulin degradation by probiotic yeast - Pichia guilliermondii S15-8	10.1016/j.foodcont.2021.108627
+Zearalenone induces oxidative damage involving Keap1/Nrf2/HO-1 pathway in hepatic L02 cells	10.1007/s13273-014-0050-7
+Aspergillus flavus Growth Inhibition and Aflatoxin B1 Decontamination by Streptomyces Isolates and Their Metabolites	10.3390/toxins13050340
+Application of carboxypeptidase A to a baking process to mitigate contamination of wheat flour by ochratoxin A	10.1016/j.procbio.2017.09.006
+Ochratoxin A: Toxicity, oxidative stress and metabolism	10.1016/j.fct.2018.01.002
+Enzymatic Degradation of Multiple Major Mycotoxins by Dye-Decolorizing Peroxidase from Bacillus subtilis	10.3390/toxins13060429
+Transcriptome analysis of the phytopathogenic fungus Rhizoctonia solani AG1-IB 7/3/14 applying high-throughput sequencing of expressed sequence tags (ESTs)	10.1016/j.funbio.2014.06.007
+Effective Zearalenone Degradation in Model Solutions and Infected Wheat Grain Using a Novel Heterologous Lactonohydrolase Secreted by RecombinantPenicillium canescens	10.3390/toxins12080475
+Kinetics of Deoxynivalenol Degradation by Aspergillus oryzae and Rhizopus oryzae in Submerged Fermentation	10.1590/S0103-50532010000400018
+Omics Insight on Fusarium Head Blight of Wheat for Translational Research Perspective	10.2174/1389202921999200620222631
+Efficient Biodegradation of Patulin by Aspergillus niger FS10 and Metabolic Response of Degrading Strain	10.3390/foods12020382
+AFLATOXIN B1 DETOXIFICATION BY CELL-FREE EXTRACTS OF RHODOCOCCUS STRAINS	10.1556/030.64.2017.023
+Molecular Response of Meyerozyma guilliermondii to Patulin: Transcriptomic-Based Analysis	10.3390/jof9050538
+Biologically Based Methods for Control of Fumonisin-Producing Fusarium Species and Reduction of the Fumonisins	10.3389/fmicb.2016.00548
+Removal of ochratoxin A by a carboxypeptidase and peptides present in liquid cultures of Bacillus subtilis CW14	10.3920/WMJ2017.2296
+Aflatoxin-degrading Bacillus sp. strains degrade zearalenone and produce proteases, amylases and cellulases of agro-industrial interest	10.1016/j.toxicon.2020.04.006
+Engineering Mussel-Inspired Coating on Membranes for GreenEnzyme Immobilization and Hyperstable Reuse	10.1021/acs.iecr.2c00484
+Detoxification of Deoxynivalenol by a Mixed Culture of Soil Bacteria With 3-epi-Deoxynivalenol as the Main Intermediate	10.3389/fmicb.2019.02172
+Application of ozone for degradation of mycotoxins in food: A review	10.1111/1541-4337.12594
+Use of partially purified peroxidase of agricultural by-product rice bran in deoxynivalenol reduction	10.1002/jctb.5191
+Current situation and future challenges of patulin reduction-a review	10.1016/j.foodcont.2022.108996
+Prevention and detoxification of patulin in apple and its products: A review	10.1016/j.foodres.2020.110034
+Degradation of zearalenone and aflatoxin B1 by Lac2 from Pleurotus pulmonarius in the presence of mediators	10.1016/j.toxicon.2021.08.003
+Draft Genome Sequence of Daldinia eschscholzii Isolated from Blood Culture	10.1128/EC.00074-12
+Detoxification Strategies for Zearalenone Using Microorganisms: A Review	10.3390/microorganisms7070208
+Isolation and characterization of a Bacillus subtilis strain with aflatoxin B1 biodegradation capability	10.1016/j.foodcont.2016.12.036
+Superheated steam reduction of deoxynivalenol in naturally contaminated wheat kernels	10.1016/j.foodcont.2005.05.004
+A review of recent innovative strategies for controlling mycotoxins in foods	10.1016/j.foodcont.2022.109350
+Molecular Docking and In Vitro Studies of Ochratoxin A (OTA) Biodetoxification Testing Three Endopeptidases	10.3390/molecules28052019
+A new role for coenzyme F420 in aflatoxin reduction by soil mycobacteria	10.1111/j.1365-2958.2010.07358.x
+Efficient Aflatoxin B1 degradation by a novel isolate, Pseudomonas aeruginosa M-4	10.1016/j.foodcont.2023.109679
+Aspergillus flavus infection induces transcriptional and physical changes in developing maize kernels	10.3389/fmicb.2014.00384
+Metabolic Pathways of Ochratoxin A	10.2174/138920011794520026
+Deoxynivalenol Detoxification by a Novel Strain of Pichia kudriavzevii via Enzymatic Degradation and Cell Wall Adsorption	10.1007/s12010-023-04712-6
+Prospects for reducing fumonisin contamination of maize through genetic modification	10.1289/ehp.01109s2337
+Proteomic Analysis of Extracellular ATP-Regulated Proteins Identifies ATP Synthase β-Subunit as a Novel Plant Cell Death Regulator	10.1074/mcp.M110.003905
+Degradation and stress response mechanism of Cryptococcus podzolicus Y3 on ochratoxin A at the transcriptional level	10.1016/j.lwt.2021.113061
+Genome mining reveals the genes of carboxypeptidase for OTA-detoxification in Bacillus subtilis CW14	10.1016/j.ijbiomac.2021.07.085
+One-step procedure for peroxidase concentration, dye separation, and color removal by aqueous two-phase system	10.1007/s11356-020-11412-9
+Metabolites and degradation pathways of microbial detoxification of aflatoxins: a review	10.1007/s12550-023-00515-0
+Biodegradation of zearalenone by Saccharomyces cerevisiae: Possible involvement of ZEN responsive proteins of the yeast	10.1016/j.jprot.2016.04.017
+Organic side streams: using microbes to make substrates more fit for mass producing insects for use as feed	10.3920/JIFF2020.0078
+Effects of Milling and Baking Technologies on Levels of Deoxynivalenol and its Masked Form Deoxynivalenol-3-Glucoside	10.1021/jf202428f
+Overview on the mechanisms of coffee germination and fermentation and their significance for coffee and coffee beverage quality	10.1080/10408398.2014.902804
+Study on coffee quality improvement by self-induced anaerobic fermentation: Microbial diversity and enzymatic activity	10.1016/j.foodres.2023.112528
+Computational Studies of Aflatoxin B1 (AFB1): A Review	10.3390/toxins15020135
+Frontiers in conventional and nanomaterials based electrochemical sensing and biosensing approaches for Ochratoxin A analysis in foodstuffs: A review	10.1016/j.fct.2021.112030
+The biological detoxification of deoxynivalenol: A review	10.1016/j.fct.2020.111649
+Conversion of Zearalenone to β-Zearalenol and Zearalenone-14,16-diglucoside by Candida parapsilosis ATCC 7330	10.1016/j.foodcont.2021.108429
+Understanding the mechanisms underlying biological control of Fusarium diseases in cereals	10.1007/s10658-023-02753-5
+Removal of ochratoxin A in wine by Cryptococcus albidus and safety assessment of degradation products	10.1002/jsfa.13087
+Compound probiotics alleviating aflatoxin B1 and zearalenone toxic effects on broiler production performance and gut microbiota	10.1016/j.ecoenv.2020.110420
+Considerations regarding affinity determinants for aflatoxin B1 in binding cavity of fungal laccase based on in silico mutational and verification studies	10.1016/j.ecoenv.2022.113412
+Isolation and Optimization of Aflatoxin B1 Degradation by Uniform Design and Complete Genome Sequencing of Novel Deep-Sea Kocuria rosea Strain 13	10.3390/toxins15090520
+Screening and characterization of a salt-tolerant aflatoxin B1-degrading strain isolated from Doubanjiang, a Chinese typical red pepper paste	10.1590/fst.122621
+Beneficial effects, challenges and opportunities of the filamentous fungus, Aspergillus niger with special reference to the shrimp feed industry-A review	10.1111/raq.12775
+Transcriptomic and Exometabolomic Profiling Reveals Antagonistic and Defensive Modes of Clonostachys rosea Action Against Fusarium graminearum	10.1094/MPMI-11-19-0310-R
+Nutrition upgrading of corn-ethanol co-product by fungal fermentation: Amino acids enrichment and anti-nutritional factors degradation	10.1016/j.fbp.2021.09.004
+Detoxification of aflatoxin B1 by manganese peroxidase from the white-rot fungus Phanerochaete sordida YK-624	10.1111/j.1574-6968.2010.02158.x
+Comparative secretome analysis of Fusarium graminearum and two of its non-pathogenic mutants upon deoxynivalenol induction in vitro	10.1002/pmic.201200446
+Exploration on the Enhancement of Detoxification Ability of Zearalenone and Its Degradation Products of Aspergillus niger FS10 under Directional Stress of Zearalenone	10.3390/toxins13100720
+Detoxification of deoxynivalenol byBacillus subtilisASAG 216 and characterization the degradation process	10.1007/s00217-020-03607-8
+Biodegradation of ochratoxin A by two novel strains of Brevibacillus sp. isolated from wheat (Triticum aestivum L.)	10.1016/j.fbio.2023.102847
+Overexpression of the SDR gene improves the ability of Meyerozyma guilliermondii to degrade patulin in pears and juices	10.1016/j.foodchem.2023.135785
+Combatting Fusarium head blight: advances in molecular interactions between Fusarium graminearum and wheat	10.1186/s42483-022-00142-0
+Biodegradation of aflatoxin B1 in contaminated rice straw by Pleurotus ostreatus MTCC 142 and Pleurotus ostreatus GHBBF10 in the presence of metal salts and surfactants	10.1007/s11274-014-1657-5
+Aflatoxin B1 and M1 Degradation by Lac2 from Pleurotus pulmonarius and Redox Mediators	10.3390/toxins8090245
+Screening of Macrofungi Isolates for Aflatoxin B1 and Ochratoxin A Degradation	10.1134/S1062359021020126
+Detoxification of ochratoxin A by Lysobacter sp. CW239 and characteristics of a novel degrading gene carboxypeptidase cp4	10.1016/j.envpol.2019.113677
+A quinone-dependent dehydrogenase and two NADPH-dependent aldo/keto reductases detoxify deoxynivalenol in wheat via epimerization in a Devosia strain	10.1016/j.foodchem.2020.126703
+Biodegradation of Ochratoxin A by Aspergillus tubingensis Isolated from Meju	10.4014/jmb.1606.06016
+Detoxification of Aflatoxin B1 by a Potential Probiotic Bacillus amyloliquefaciens WF2020	10.3389/fmicb.2022.891091
+The regulatory role of the Aspergillus flavus core retromer complex in aflatoxin metabolism	10.1016/j.jbc.2022.102120
+Microbial reduction of zearalenone by a new isolated Lysinibacillus sp. ZJ-2016-1	10.3920/WMJ2017.2264
+The Influence of Humic Acids and Nitrophenols on Metabolic Compounds and Pesticide Behavior in Wheat under Biotic Stress	10.3390/agronomy13051378
+Beyond Ribosomal Binding: The Increased Polarity and Aberrant Molecular Interactions of 3-epi-deoxynivalenol	10.3390/toxins8090261
+Biodegradation of ochratoxin A by endophytic Trichoderma koningii strains	10.1007/s11274-022-03491-2
+Characterization of Mutant Aspergillus niger and the Impact on Certain Plants	10.3390/su14031936
+Epimerization of Deoxynivalenol by the Devosia Strain A6-243 Assisted by Pyrroloquinoline Quinone	10.3390/toxins14010016
+Effects of exogenous ascorbic acid on yields of citrinin and pigments, antioxidant capacities, and fatty acid composition of Monascus ruber	10.1016/j.lwt.2021.112800
+Occurrence of Fusarium T-2 and HT-2 toxins in oats from cultivar studies in Germany and degradation of the toxins during grain cleaning treatment and food processing	10.1080/19440049.2010.487499
+Ochratoxin A impairs Nrf2-dependent gene expression in porcine kidney tubulus cells	10.1111/j.1439-0396.2008.00838.x
+Reduction of aflatoxins by Rhizopus oryzae and Trichoderma reesei	10.1007/s12550-014-0202-6
+Identification, virulence factors characterization, pathogenicity and aggressiveness analysis of Fusarium spp., causing wheat head blight in Iran	10.1007/s10658-016-1059-7
+A molecular and bioinformatic study on the ochratoxin A (OTA)-producing Aspergillus affinis (section Circumdati)	10.1007/s12550-014-0195-1
+Rhodococcus erythropolis MTHt3 biotransforms ergopeptines to lysergic acid	10.1186/s12866-015-0407-7
+Comparative Genomics Analysis of Ganoderma Orthologs Involved in Plant-Pathogenesis	10.3390/f14030653
+FumDSB Can Reduce the Toxic Effects of Fumonisin B1 by Regulating Several Brain-Gut Peptides in Both the Hypothalamus and Jejunum of Growing Pigs	10.3390/toxins13120874
+The Role of Saccharides in the Mechanisms of Pathogenicity of Fusarium oxysporum f. sp. lupini in Yellow Lupine (Lupinus luteus L.)	10.3390/ijms21197258
+Induced Expression of the Acinetobacter sp. Oxa Gene in Lactobacillus acidophilus and Its Increased ZEN Degradation Stability by Immobilization	10.3390/toxins15060387
+Classic myrosinase-dependent degradation of indole glucosinolate attenuates fumonisin B1-induced programmed cell death in Arabidopsis	10.1111/tpj.12778
+Isolation and characterization of novel soil bacterium, Klebsiella pneumoniae strain GS7-1 for the degradation of zearalenone in major cereals	10.1016/j.foodcont.2022.109287
+Cloning and expression of the catalase gene (KatA) from Pseudomonas aeruginosa and the degradation of AFB1 by recombinant catalase	10.1002/jsfa.12190
+Biodegradation of Aflatoxin B1 in the Baijiu Brewing Process by Bacillus cereus	10.3390/toxins15010065
+Ultrastructural and cytochemical studies on cellulose, xylan and pectin degradation in wheat spikes infected by Fusarium culmorum	10.1046/j.1439-0434.2000.00489.x
+Aflatoxin B1 degradation by Bacillus subtilis UTBSP1 isolated from pistachio nuts of Iran	10.1016/j.foodcont.2011.06.018
+Microbial transformation of trichothecene mycotoxins	10.3920/WMJ2008.x003
+Lycopene Protects Intestinal Epithelium from Deoxynivalenol-Induced Oxidative Damage via Regulating Keap1/Nrf2 Signaling	10.3390/antiox10091493
+Cyclooxygenases and lipoxygenases are used by the fungus Podospora anserina to repel nematodes	10.1016/j.bbagen.2018.07.012
+Tools to kill: Genome of one of the most destructive plant pathogenic fungi Macrophomina phaseolina	10.1186/1471-2164-13-493
+Fungal and host transcriptome analysis of pH-regulated genes during colonization of apple fruits by Penicillium expansum	10.1186/s12864-016-2665-7
+Aflatoxin biotransformation by commercial peroxidase and its application in contaminated food	10.1002/jctb.5865
+Generation of a New Model Rat: Nrf2 Knockout Rats Are Sensitive to Aflatoxin B1 Toxicity	10.1093/toxsci/kfw065
+Identification and toxicological analysis of products of patulin degradation by Pichia caribbica	10.1016/j.biocontrol.2018.04.019
+Pathogenicity and Virulence Factors of Fusarium graminearum Including Factors Discovered Using Next Generation Sequencing Technologies and Proteomics	10.3390/microorganisms8020305
+Detoxification of aflatoxin B1 by certain bacterial species isolated from Egyptian soil	10.3920/WMJ2010.1262
+Isolation and identification of antagonistic bacteria of Angelica root rot and their mechanism as biological control	10.1016/j.biocontrol.2022.105120
+A Hydrolase Produced by Rhodococcus erythropolis HQ Is Responsible for the Detoxification of Zearalenone	10.3390/toxins15120688
+Fungal Lactamases: Their Occurrence and Function	10.3389/fmicb.2017.01775
+The Kynurenine 3-Monooxygenase Encoding Gene, BcKMO, Is Involved in the Growth, Development, and Pathogenicity of Botrytis cinerea	10.3389/fmicb.2018.01039
+Localization of zearalenone detoxification gene(s) in pZEA-1 plasmid of Pseudomonas putida ZEA-1 and expressed in Escherichia coli	10.1016/j.jhazmat.2008.04.068
+Fermentative degradation of Patulin by Saccharomyces cerevisiae in aqueous solution	10.1016/j.lwt.2018.07.040
+Microbial strategies to control aflatoxins in food and feed	10.3920/WMJ2011.1290
+Current and promising strategies to prevent and reduce aflatoxin contamination in grains and food matrices	10.3920/WMJ2020.2559
+Effect of xylanase and α-amylase on DON and its conjugates during the breadmaking process	10.1016/j.foodres.2017.08.021
+Reduction the contamination of patulin during the brewing of apple cider and its characteristics	10.1080/19440049.2022.2055155
+Characterization of a Fusarium graminearum Salicylate Hydroxylase	10.3389/fmicb.2018.03219
+Effects of aflatoxin contaminated maize on Folsomia candida (Collembola)	10.1016/j.ejsobi.2020.103233
+Application of Electrochemical Biosensors for Determination of Food Spoilage	10.3390/bios13040456
+Electrochemical analysis of specific catalase activity during development of Aspergillus flavus and its correlation with aflatoxin B1 production	10.1016/j.foodchem.2020.127978
+Characterization of two catalase-peroxidase-encoding genes in Fusarium verticillioides reveals differential responses to in vitro versus in planta oxidative challenges	10.1111/mpp.12591
+Ultrastructural observation and transcriptome analysis provide insights into mechanisms of Penicillium expansum invading apple wounds	10.1016/j.foodchem.2023.135633
+The effect of Fusarium culmorum infection and deoxynivalenol (DON) application on proteome response in barley cultivars Chevron and Pedant	10.1016/j.jprot.2017.07.005
+Global distribution, toxicity to humans and animals, biodegradation, and nutritional mitigation of deoxynivalenol: A review	10.1111/1541-4337.13203
+Enzymatic transformation of aflatoxin B1 by Rh_DypB peroxidase and characterization of the reaction products	10.1016/j.chemosphere.2020.126296
+Genomic Insights into the Microbial Agent Streptomyces albidoflavus MGMM6 for Various Biotechnology Applications	10.3390/microorganisms11122872
+Ubiquitin E3 Ligase AaBre1 Responsible for H2B Monoubiquitination Is Involved in Hyphal Growth, Conidiation and Pathogenicity in Alternaria alternata	10.3390/genes11020229
+Hydrolysers of modified mycotoxins in maize: α-Amylase and cellulase induce an underestimation of the total aflatoxin content	10.1016/j.foodchem.2017.12.057
+Aflatoxins Contamination in Feed Commodities: From Occurrence and Toxicity to Recent Advances in Analytical Methods and Detoxification	10.3390/microorganisms11102614
+Comparison of aflatoxin production of Aspergillus flavus at different temperatures and media: Proteome analysis based on TMT	10.1016/j.ijfoodmicro.2019.108313
+Factors that affect the occurrence of fumonisin	10.2307/3435025
+Progress in elucidating the molecular basis of the host plant -: Aspergillus flavus interaction, a basis for devising strategies to reduce aflatoxin contamination in crops	10.1081/TXR-200027892
+4-O-Glucosylation of Trichothecenes by Fusarium Species: A Phase II Xenobiotic Metabolism for t-Type Trichothecene Producers	10.3390/ijms222413542
+Comparative genomics reveals low levels of inter- and intraspecies diversity in the causal agents of dwarf and common bunt of wheat and hint at conspecificity of Tilletia caries and T. laevis	10.1186/s43008-022-00098-y
+Fusarium graminearum arabinanase (Arb93B) Enhances Wheat Head Blight Susceptibility by Suppressing Plant Immunity	10.1094/MPMI-06-18-0170-R
+Factors driving metabolic diversity in the budding yeast subphylum	10.1186/s12915-018-0498-3
+Means to Prevent Contamination with Patulin in Apple-Derived Produce and with Ochratoxin A in Wines	10.1016/B978-0-12-374126-4.00018-8
+Deterioration of lipids in stored wheat grains by environmental conditions and fungal infection-A review	10.1016/j.jspr.2021.101914
+Postharvest strategies for decontamination of aflatoxins in cereals	10.1080/87559129.2021.2013254
