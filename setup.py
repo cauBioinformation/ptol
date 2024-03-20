@@ -3,7 +3,7 @@
 
 from setuptools import setup, find_packages
 
-# open('README.md').read() # ChatGPT4用的这个，孙朋川自己改了下，为了预防没有自动关闭README.md的问题。
+# open('README.md').read()
 with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 
